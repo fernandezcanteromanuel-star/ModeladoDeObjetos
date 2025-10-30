@@ -1,4 +1,4 @@
-from figura import Figura
+from Figuras.figura import Figura
 
 class Rectangulo(Figura):
     def __init__(self, color, longitud, anchura):

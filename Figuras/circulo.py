@@ -1,4 +1,4 @@
-from figura import Figura
+from Figuras.figura import Figura
 
 class circulo(Figura):
     def __init__(self, color="Sin color", diametro=0):

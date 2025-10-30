@@ -1,4 +1,4 @@
-from circulo import circulo
+from Figuras.circulo import circulo
 
 if __name__ == '__main__':
     c1 = circulo("azul", 8)

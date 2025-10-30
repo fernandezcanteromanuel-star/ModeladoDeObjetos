@@ -1,4 +1,4 @@
-from figura import Figura
+from Figuras.figura import Figura
 
 class elipse(Figura):
     def __init__(self, color="Sin color", eje_may=0, eje_men=0):
