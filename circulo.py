@@ -5,4 +5,4 @@ class circulo(Figura):
         super().__init__(color)
         self.diametro = diametro
     def __str__(self):
-        return "Se creo un círculo de color: {}".format(self.color)
+        return "Se creo un círculo de color: {} y diametro: {}".format(self.color, self.diametro)
